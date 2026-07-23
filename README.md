@@ -1,0 +1,2 @@
+# Pharmacysalesinventryomanagmentsystem
+full project
